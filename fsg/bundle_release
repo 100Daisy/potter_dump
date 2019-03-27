@@ -1,0 +1,65 @@
+F S G   B U N D L E
+===================
+
+built on:     Wed Aug 29 14:37:42 CDT 2018
+built by:     hudsonmd
+build mach:   ilclbld117
+product:      m8953
+flavor:       customer
+mcfg_ver:     07.97
+
+COMMENTS
+--------
+Release FSG-8953-07.97
+
+RECIPE
+------
+0.img: d2386c00b016dbb2b7b484467bc177dc40d3f41b 
+acglte_usa: f63dd1df9711ec904214fcf669a6831aee4fd086 
+airtel_ind: 9dc4e6caf18e7d5ec3bba0751d83120d32fdec58 
+att_cc_usa: bbd0f761fbf0c9e8f6adb2ce208fbeea7833c6e3 
+att_usa: 6be9809610cbba24d415fa2fb18a3b3fe46d6489 
+avantel_col: b1b58f603df223c20ad889393482e798799c3088 
+beeline_rus: 2aafdab0f4b16376873ad3f38a734bfc2ce76906 
+can_retail: 373262550a6bf3d74c9810ea80d12f30a63f07f2 
+claro_arg_wfc: bea76333fc57d6b2ed7400ecf024f8ac037951e7 
+claro_bra_wfc: 92160895445ddb2daec84b78472dea2de165c4eb 
+claro_peru: 0e1165aae36c0ae7ad3aa5f81d7d8b9faaa2ebc4 
+cmcc_chn: d2e73fea28c6fb68b21deb3d23bf4bb0c97a41c1 
+ct_chn: 66ba6e3b91be6be4fd1af3017de215c12b4b6dcc 
+cu_chn: 7a71e3a5bdb13eb83976a64b4cdc5372c00d5875 
+deg2_nzl: e256c23351222080dd7db700706b11b7cdd343df 
+docomo_jpn: 1826a1262d0071016be0863327f41b3c80086407 
+etisalat_are: 281683611a0836e22bdabdad68a44da40fa280cf 
+eu_g2l: a148412965fdc3551770c0db430170281ac0d03c 
+eu_retail: a63643ae214564fc7dfaa4ecc89f2f00a5245204 
+kddi_jpn: 6f0ed7dc9f9f4465f1995e7fe629212efe93f05a 
+lra_om_usa: 368fc04f68a733f2fe6ad07b914e249f7fed3e1c 
+movistar_arg_volte: f4b29abe86d3e8f0a8dce6ac972b17dcd17b5fa6 
+movistar_col: 55d5c1df5a639673ebf68d22bf229df0fdf5cfb4 
+o2_deu_wfc: 7e6057fa5b57a00f016d8964f1b4e6a79d51dc83 
+porto_connecta_bra: ce4d904d7f0be469b22e7015380bbd6fcccdc05c 
+potter_dsds_apac.img: 01b40bf85cf3dcf277bf7b304385a4a9a02e7958 
+potter_dsds_brazil.img: ac7d74f8d69cfa335ad91debb4d4b726547a8829 
+potter_dsds_emea.img: ccc0f28994940503428db075380f4188162ef4d7 
+potter_dsds_india.img: dd8c8e2ac2b0f708dc15b30d1f5021e9d2363245 
+potter_dsds_latam.img: b5916523d7a03b453ffc8c01e3cbb9987d30433e 
+potter_emea.img: 2d6c5e1ea6e1aae796d60095ecb99f5d066d9237 
+potter_latam.img: 8a77693899e8f4d6b63e4adf41ef51363315893f 
+potter_na.img: 3e51a305d314e235b5f8d86b1c9399ba87a0f827 
+rjio_ind: 892e92c49937e174ad8ebc1a22d8e3fe2639b62f 
+rogers_can: 2a227695928496e3826961bbe6b93625d82e5b9e 
+smartfren_idn: 9de2683f02e187fb686e2ca5b82e9333220dd457 
+sprint_usa: 4d57a9ec1bbb9b0a47713ca592956a101827437b 
+super: 97cf3095c9eabd6cadb8a29e372173c9329759cc 
+superset: e25eaac86e9d0d4b3fdc41caa5589b65f5d43d59 
+telia_swe: 0fb61d16c9660c0524775f722ab9b486d58282f1 
+tim_bra: f0c1a372efd6c3c0de6a00d5404548019cf30dc4 
+tmo_deu_wfc: 112bb74a2c05ccd85e15f00340296af8f90cf548 
+tmo_usa: 96ae5fddff649c207f1226590edbdfd163be1d6c 
+uk3g_gbr: e3ba7e2f195bbb66990a172e9aad6dd113440273 
+vf_deu_wfc: 2f7809e59d749d11207a3ef375e1146943dc869a 
+vha_aus: b8768e2756b4bf5b0e4c5c787a7e95e04922eb0b 
+vivo_bra_ims: d40bccdc5ec8d44750e6e1b5ce75b32580e4d51c 
+vzw_usa: bf2de746a5071c1f3c978ec0dbdd72ca2e2704e7 
+wom_chl: b9c7bb938220b46edc2d462134cb50313d6a6511 
